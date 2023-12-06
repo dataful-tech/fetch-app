@@ -1,0 +1,24 @@
+{
+  "name": "fetch-app",
+  "version": "1.0.1",
+  "description": "Google Apps Script library that extends built-in UrlFetchApp with retries, callbacks, and more.",
+  "author": "Stan <info@dataful.tech>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dataful-tech/fetch-app.git"
+  },
+  "license": "MIT",
+  "private": true,
+  "bugs": {
+    "url": "https://github.com/dataful-tech/fetch-app/issues"
+  },
+  "homepage": "https://github.com/dataful-tech/fetch-app",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "@google/clasp": "^2.4.2",
+    "@types/google-apps-script": "^1.0.78",
+    "jest": "^29.7.0"
+  }
+}
