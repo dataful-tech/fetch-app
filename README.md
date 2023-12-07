@@ -111,13 +111,13 @@ const response = FetchApp.fetch(url, params, config);
 FetchApp leverages Google Apps Script IDE's limited JSDoc annotations support. If you copy the full code of the library, you will get complete type hints and autocomplete for all variables, including `params` and `config`.
 
 <div align="center">
-  <img class="logo" src="https://github.com/dataful-tech/fetch-app/raw/master/images/params-options-autocomplete.png" width="600px" alt="FetchApp | Autocomplete for params options"/>
+  <img class="logo" src="https://github.com/dataful-tech/fetch-app/raw/main/images/params-options-autocomplete.png" width="600px" alt="FetchApp | Autocomplete for params options"/>
 </div>
 
 Unfortunately, the IDE does not recognize most JSDoc annotations from the libraries, and only text description of the fields is visible. All options are also duplicated in the field descriptions to mitigate this limitation and for easier reference.
 
 <div align="center">
-  <img class="logo" src="https://github.com/dataful-tech/fetch-app/raw/master/images/params-options-autocomplete.png" width="600px" alt="FetchApp | Hint for params options"/>
+  <img class="logo" src="https://github.com/dataful-tech/fetch-app/raw/main/images/params-options-autocomplete.png" width="600px" alt="FetchApp | Hint for params options"/>
 </div>
 
 ## Versioning
