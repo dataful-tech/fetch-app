@@ -117,7 +117,7 @@ FetchApp leverages Google Apps Script IDE's limited JSDoc annotations support. I
 Unfortunately, the IDE does not recognize most JSDoc annotations from the libraries, and only text description of the fields is visible. All options are also duplicated in the field descriptions to mitigate this limitation and for easier reference.
 
 <div align="center">
-  <img class="logo" src="https://github.com/dataful-tech/fetch-app/raw/main/images/params-options-autocomplete.png" width="600px" alt="FetchApp | Hint for params options"/>
+  <img class="logo" src="https://github.com/dataful-tech/fetch-app/raw/main/images/params-options-hint.png" width="600px" alt="FetchApp | Hint for params options"/>
 </div>
 
 ## Versioning
